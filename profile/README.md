@@ -3,7 +3,6 @@
 
 **We are Fluentix:)**
 
-🙋‍♀️ Introduction - We create a programming language: meant to be fluent.
-🌈 Contribution guidelines - You can ping us at our [email](mailto:support@fluentix.dev) to contribute.
-👩‍💻 Useful resources - You can find us in our website (https://fluentix.dev).
-🍿 Fun facts - Our programming language is purely Pythoned!
+What is Fluentix? Well, it's a programming language that is made on the purpose of fluent coding. We know you all are suffered tough times smashing keyboard to find the perfect syntax.... but you can't get your hand moving again... so we are here to (kinda) save the day! 
+
+Learn more at: https://fluentix.dev
